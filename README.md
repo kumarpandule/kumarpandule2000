@@ -1,6 +1,6 @@
 ### Hi there, I'm Kumar - ToXic [Google Developer][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.comPanduleKumar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PanduleKumar)
 
 ## I'm a Friend, Brother, Developer, and Freelancer!!
 
