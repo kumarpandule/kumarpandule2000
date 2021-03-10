@@ -1,11 +1,10 @@
 ### Hi there, I'm Kumar - ToXic [Google Developer][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://play.google.com/store/apps/dev?id=5476170512841906562)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.comPanduleKumar
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.comPanduleKumar)
 
 ## I'm a Friend, Brother, Developer, and Freelancer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my new application: [Prometric Testing For Nurses!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -69,7 +68,7 @@
 </details>
 
 [website]: https://play.google.com/store/apps/dev?id=5476170512841906562
-[course]: http://.com
+[course]: https://play.google.com/store/apps/details?id=com.toxic.nursingtests
 [twitter]: https://twitter.com/PanduleKumar
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/kumarpandule
