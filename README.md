@@ -34,3 +34,8 @@ const kumar = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
