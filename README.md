@@ -1,5 +1,5 @@
 <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/kumarpandule2000/kumarpandule2000/blob/main/programmer.gif" width="230">
+<img align='right' src="https://github.com/kumarpandule2000/kumarpandule2000/blob/main/programmer.gif" width="350">
 
 ### Hi there, I'm Kumar - ToXic [Google Developer][website] 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
