@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="ToXic" />
+</h1>
 ### Hi there, I'm Kumar - ToXic [Google Developer][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PanduleKumar)
@@ -47,7 +50,8 @@
 <br />
 
   <summary>:zap: GitHub Stats</summary>
-
+<br />
+<br />
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 
