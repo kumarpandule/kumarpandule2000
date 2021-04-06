@@ -3,8 +3,6 @@
 
 ### Hi there, I'm Kumar - ToXic [Google Developer][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PanduleKumar)
-
 :sunglasses: I'm **Duong** (not Nguyen), a high school senior.  
 :desktop_computer: I'm aspiring to a career in **Graphics and HCI research**.  
 :triangular_ruler: I love **digital media design**.  
