@@ -16,6 +16,8 @@ experience**.
 :man_technologist: I'm currently working with **[three.js][1] and Jekyll**.  
 :briefcase: I use [Atom][2] :atom: & [Firefox][3] on [Fedora GNU/Linux][4].  
 :gift_heart: I'm a [**free software & public domain evangelist**][5].  
+
+### My Work Chain... 
 [<img src="https://github.com/kumarpandule2000/kumarpandule2000/blob/main/github_banner.png" alt="Our Work Chain"/>](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
