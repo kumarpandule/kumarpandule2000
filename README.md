@@ -17,7 +17,7 @@ experience**.
 :briefcase: I use [Atom][2] :atom: & [Firefox][3] on [Fedora GNU/Linux][4].  
 :gift_heart: I'm a [**free software & public domain evangelist**][5].  
 
-### <img src="https://github.com/kumarpandule2000/kumarpandule2000/blob/main/source.gif" width="60"> My Work Chain... 
+### <img src="https://github.com/kumarpandule2000/kumarpandule2000/blob/main/source.gif" width="60"> <div align="start"> My Work Chain... </dev> 
 [<img src="https://github.com/kumarpandule2000/kumarpandule2000/blob/main/github_banner.png" alt="Our Work Chain"/>](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
