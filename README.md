@@ -5,6 +5,14 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PanduleKumar)
 
+:sunglasses: I'm **Duong** (not Nguyen), a high school senior.  
+:desktop_computer: I'm aspiring to a career in **Graphics and HCI research**.  
+:triangular_ruler: I love **digital media design**.  
+:night_with_stars: I want to create **mesmerizing 3D digital art and immersive
+experience**.  
+:man_technologist: I'm currently working with **[three.js][1] and Jekyll**.  
+:briefcase: I use [Atom][2] :atom: & [Firefox][3] on [Fedora GNU/Linux][4].  
+:gift_heart: I'm a [**free software & public domain evangelist**][5].  
 [<img src="https://github.com/kumarpandule2000/kumarpandule2000/blob/main/github_banner.png" alt="Our Work Chain"/>](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
@@ -35,15 +43,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
-  <summary>:zap: GitHub Stats</summary>
-<br />
-<br />
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
 
 [website]: https://play.google.com/store/apps/dev?id=5476170512841906562
 [course]: https://play.google.com/store/apps/details?id=com.toxic.nursingtests
