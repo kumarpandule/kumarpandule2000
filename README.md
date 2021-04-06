@@ -1,4 +1,4 @@
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Kumar Pandule! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/kumarpandule2000/kumarpandule2000/blob/main/programmer.gif" width="400">
 
 ### Hi there, I'm Kumar - ToXic [Google Developer][website] 👋
