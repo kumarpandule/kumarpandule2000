@@ -8,12 +8,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 
-:sunglasses: I'm **Duong** (not Nguyen), a high school senior.  
-:desktop_computer: I'm aspiring to a career in **Graphics and HCI research**.  
-:triangular_ruler: I love **digital media design**.  
-:night_with_stars: I want to create **mesmerizing 3D digital art and immersive
-experience**.  
-:man_technologist: I'm currently working with **[three.js][1] and Jekyll**.  
+:sunglasses: I'm **Kumar** (ToXic), Computer + E&TC Engineer.  
+:desktop_computer: I'm aspiring to a career in **Android and IOS App Development**.  
+:triangular_ruler: I love **Music**.  
+:night_with_stars: I want to create **Best UI Android Applications.**.  
+:man_technologist: I'm currently working with **[three.js][1] and Flutter**.  
 :briefcase: I use [Atom][2] :atom: & [Firefox][3] on [Fedora GNU/Linux][4].  
 :gift_heart: I'm a [**free software & public domain evangelist**][5].  
 
