@@ -12,9 +12,9 @@
 :desktop_computer: I'm aspiring to a career in **Android and IOS App Development**.  
 :triangular_ruler: I love **Music**.  
 :night_with_stars: I want to create **Best UI Android Applications.**.  
-:man_technologist: I'm currently working with **[three.js][1] and Flutter**.  
-:briefcase: I use [Atom][2] :atom: & [Firefox][3] on [Fedora GNU/Linux][4].  
-:gift_heart: I'm a [**free software & public domain evangelist**][5].  
+:man_technologist: I'm currently working with **Flutter and Swift**.  
+:briefcase: I use :atom: for firebase data modification and :a: Android Studio.  
+:gift_heart: I'm a Student.  
 
 ⛓️: My **Work Chain**.
 [<img src="https://github.com/kumarpandule2000/kumarpandule2000/blob/main/github_banner.png" alt="Our Work Chain"/>](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -22,15 +22,15 @@
 ```javascript
 const kumar = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Dart, Swift, C, Javascript, HTML, CSS, Java],
+  tools: [Flutter, Node, Android Studio, VS Code, Adobe XD, Adobe PP],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "ToXic",
+                        speaker: "Hitesh",
+                        mentor: "I dont know"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Flutter and Node"
 }
 ```
 <div align="center">
